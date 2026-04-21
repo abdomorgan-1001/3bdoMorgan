@@ -1,0 +1,6 @@
+{
+  "name": "Secure Login Data Isolation System",
+  "description": "Full-stack login system using React, Node.js, and SQLite. Features individual SQLite databases per user for complete data isolation. Securely hashes passwords using bcrypt and manages sessions via secure cookies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
